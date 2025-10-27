@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Empowering The Nation",
+    "slug": "empowering-the-nation",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "enabled": false
+    }
+  }
+}
